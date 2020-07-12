@@ -1,0 +1,30 @@
+f7b6e12 (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: checkout: moving from images to master
+03e1e49 (origin/images, images) HEAD@{1}: checkout: moving from styles to images
+9a599fe (origin/styles, styles) HEAD@{2}: checkout: moving from develop to styles
+765fdb2 (origin/develop, develop) HEAD@{3}: checkout: moving from master to develop
+f7b6e12 (HEAD -> master, origin/master, origin/HEAD) HEAD@{4}: pull: Merge made by the 'recursive' strategy.
+765fdb2 (origin/develop, develop) HEAD@{5}: merge develop: Fast-forward
+618df09 HEAD@{6}: checkout: moving from develop to master
+765fdb2 (origin/develop, develop) HEAD@{7}: merge styles: Merge made by the 'recursive' strategy.
+9a89da8 HEAD@{8}: merge images: Merge made by the 'recursive' strategy.
+65b390e HEAD@{9}: checkout: moving from styles to develop
+9a599fe (origin/styles, styles) HEAD@{10}: pull: Fast-forward
+e483536 HEAD@{11}: commit: styles
+65b390e HEAD@{12}: checkout: moving from develop to styles
+65b390e HEAD@{13}: pull: Fast-forward
+117b1ce HEAD@{14}: checkout: moving from images to develop
+03e1e49 (origin/images, images) HEAD@{15}: commit: 1
+8cd2bda HEAD@{16}: pull: Fast-forward
+f107228 HEAD@{17}: pull: Merge made by the 'recursive' strategy.
+400074c HEAD@{18}: commit: test
+6da3e78 HEAD@{19}: checkout: moving from images to images
+6da3e78 HEAD@{20}: checkout: moving from develop to images
+117b1ce HEAD@{21}: commit: index.html
+6da3e78 HEAD@{22}: checkout: moving from images to develop
+6da3e78 HEAD@{23}: checkout: moving from develop to images
+6da3e78 HEAD@{24}: checkout: moving from images to develop
+6da3e78 HEAD@{25}: checkout: moving from develop to images
+6da3e78 HEAD@{26}: commit: WOW
+618df09 HEAD@{27}: checkout: moving from master to develop
+618df09 HEAD@{28}: commit: First commit
+70bb340 HEAD@{29}: clone: from https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4.git
