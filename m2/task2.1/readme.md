@@ -6,4 +6,4 @@
 
 2. Type 1 hypervisors have direct access to the underlying hardware and are considered the most effective for enterprise computing. They are also very safe.
 
-Type 2 hypervisors use the host computer operating system - this allows them to support a wide range of hardware. They are less secure.
+Type 2 hypervisors use the host computer operating system - this allows them to support a wide range of hardware. They are less secure. 
