@@ -14,6 +14,12 @@ Hard & soft link
 
 mount, blkid, dmesg
 
+mount - команда дозволяє змонтувати розіл.
+
+blkid - команда дозволяє переглянути UUID (Universal Unique Identifier) диску та тип файлової системи.
+
+dmesg - команда використовується для відображення і керування кільцевого буферу ядра.
+
 ![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.3/task5_3__3_blkid.PNG)
 
 ![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.3/task5_3__3_mount.PNG)
