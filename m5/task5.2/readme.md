@@ -28,4 +28,5 @@ cat, less, more
 ![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.2/task5_2__4_1.PNG)
 
 man
+
 ![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m5/task5.2/task5_2__5_man_pwd.PNG)
