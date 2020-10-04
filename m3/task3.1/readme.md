@@ -32,4 +32,4 @@
 
 8.Вибірка із таблиці user
 
-![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.1/task3_1_8.PNG)
+![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.1/task3_1_8.PNG) 
