@@ -16,3 +16,4 @@
 4. Трансфер локальної бази на RDS. Виконується поки що з помилкою. Доступ до RDS є.
 
 ![alt text](https://github.com/boikoserhii/DevOps_online_Lviv_2020Q3Q4/blob/master/m3/task3.2/task3.2_RDS_error.PNG)
+ 
